@@ -1,0 +1,26 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+   
+}
+.paragraph-content{
+    
+    margin: 20px;
+    text-wrap: balance;
+
+   
+}
+/* .image{
+
+} */
+
+.home img{
+    background: url() no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity:0.8;
+}
